@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.skin-main{
+    background-color: rgb(251, 215, 221);
+    min-height: 100vh; /* Set minimum height to 100% of the viewport height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skin-div img{
+  width: 70%;
+  height: auto;
+ margin-top: -8rem;
+ margin-left: 5rem;
+ 
+ 
+}
+.skin-div label {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  padding: 10px 25px;
+  margin-left: 7rem;
+  font-size: 1.2rem;
+  background-color: rgb(242, 109, 131);
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.skin-div input[type="file"] {
+  margin-left: -12rem;
+  margin-top: 1rem;
+  position: absolute;
+  z-index: 2;
+  cursor: pointer;
+  opacity: 0;
+
+}
+
+.skin-div label:hover {
+  background-color: rgb(252, 146, 163);
+}
+.img-choosen {
+  border: 2px solid rgb(242, 109, 131);
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgb(242, 109, 131);
+  padding: 20px; /* Adjust padding as needed */
+  max-width: 450px; /* Set a max-width for the container */
+  margin: 0 auto; /* Center the container */
+  margin-top:-7rem;
+}
+
+.img-choosen-img {
+  text-align: center; /* Center the image horizontally */
+}
+
+#img-choosen-img2 {
+  border-radius: 8px;
+  max-width: 70%; /* Ensure the image doesn't exceed its container */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure the image behaves as a block element */
+  margin: 0 auto; /* Center the image within its container */
+  margin-bottom: 4px;
+}
+
+
+
+.skin-button{
+    margin-top: 20px;
+    margin-left: 15rem;
+    padding: 10px 25px;
+    font-size: 20px;
+    background-color: rgb(242, 109, 131);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .skin-button:hover {
+    background-color: rgb(252, 146, 163);
+  }

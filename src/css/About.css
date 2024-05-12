@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .About-body {
+    background-color: rgb(251, 215, 221);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;/* Add padding to create space around the content */
+  }
+  
+  .about-img {
+    width: 40%;
+    height: auto;
+    margin-left: 27rem;
+    margin-bottom: -100px;
+    margin-top: -240px; /* Add margin to create space between image and paragraph */
+  }
+  
+  p {
+    font-size: 20px; /* Increase font size for better readability */
+  line-height: 1.5; /* Increase line height for better spacing */
+  text-align: center; /* Center align the text */
+  font-family: Apple Chancery, cursive;
+  font-size: 25px;
+  }
+  

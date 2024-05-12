@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.signin-body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(251, 215, 221);
+}
+
+.signin-container {
+
+  height: 55vh;
+  width: 33vw;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.title{
+    height: 100px;
+    background: rgb(243, 166, 179);
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:10px 10px 0 0;
+}
+
+
+.signin-container form {
+  margin-top: 30px;
+}
+
+.signin-container form .input-box {
+  height: 55px;
+  margin: 18px 0;
+  position: relative;
+}
+
+.signin-container form input {
+  height: 100%;
+  width: 31vw;
+  outline: none;
+  padding: 0 80px;
+  font-size: 17px;
+  font-weight: 400;
+  color: #333;
+  border: 1.5px solid #c7bebe;
+  border-bottom-width: 2.5px;
+  border-radius: 6px;
+  margin-left: 1rem;
+
+}
+.signin-container form i{
+  position: absolute;
+  width: 50px;
+  height: 100%;
+  background:pink;
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+  border-radius:6px 0  0 6px;
+  border: 1px solid #b9b9b9;
+
+}
+
+.signin-container form input:focus,
+.signin-container form input:valid {
+  border-color: rgb(251, 215, 221);
+}
+
+.signin-container form button {
+    width: 31vw;
+    height: 8vh;
+    color: black;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    border: none;
+    margin-left: 1rem;
+    background: pink;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.signin-container form button:hover {
+  background: rgb(244, 156, 171);
+}
+
+.para2{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+.para2 a {
+  color: rgb(251, 120, 142);
+  text-decoration: none;
+}
+
+.para2 a:hover {
+  text-decoration: underline;
+}

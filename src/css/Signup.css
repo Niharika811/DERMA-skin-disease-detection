@@ -1,0 +1,125 @@
+/* signup.css */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+.signup-body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(251, 215, 221);
+}
+
+.signup-container {
+
+  height: 80vh;
+  max-width: 100vh;
+  background: #fff;
+  padding: 34px;
+  border-radius: 6px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.signup-container h1 {
+  position: relative;
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+
+.signup-container h1::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 28px;
+  border-radius: 12px;
+  background: pink;
+}
+
+.signup-container form {
+  margin-top: 30px;
+}
+
+.signup-container form .row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.signup-container form .input-group {
+  flex: 1;
+  margin-right: 50px;
+}
+
+.signup-container form .input-group:last-child {
+  margin-right: 0;
+}
+
+.signup-container form input {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  padding: 8px 15px;
+  font-size: 20px;
+  font-weight: 400;
+  color: black;
+  border: 1.5px solid grey;
+  border-bottom-width: 2.5px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.signup-container form input:focus{
+  border-color: pink;
+}
+
+.signup-container form button {
+  font-size: 20px;
+  height: 6vh;
+  width: 100%;
+  color: black;
+  letter-spacing: 1px;
+  border: none;
+  background: pink;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px; /* Increase the margin-top */
+}
+
+.signup-container form button:hover {
+  background: rgb(244, 156, 171);
+}
+
+.signup-body p {
+  font-size: 20px;
+  margin-top: 1rem;
+  margin-left: 9.5rem;
+}
+
+.signup-body a {
+  text-decoration: none;
+  color: rgb(251, 120, 142);
+}
+
+.signup-body .input-group .stdropdown-tool {
+  margin-top: 2px;
+  display: none;
+}
+
+.signup-container form .input-group.stdropdown-input input:focus {
+  border-color: pink;
+}
+
+.signup-body .input-group .stdropdown-menu {
+  position: absolute;
+  z-index: 9999; /* Ensure the dropdown appears over other elements */
+  margin-top: 1px; /* Adjust as needed */
+  max-height: 140px;
+  overflow-y: auto;
+  border: 1px solid grey; /* Add border for better visibility */
+  background: white; /* Set background color to white */
+  border-radius: 10px;
+}
+
