@@ -4,15 +4,15 @@
 
 ## Preview
 <p align="center">
-  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/d3b3da84-22d9-42fe-94b0-6b4adbdb2cfd" width="300" />
-  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/043dcb28-9452-4527-afb6-03bc9a241382" width="300" />
+  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/d3b3da84-22d9-42fe-94b0-6b4adbdb2cfd" width="500" />
+  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/043dcb28-9452-4527-afb6-03bc9a241382" width="500" />
 </p>
 <p align="center">
-  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/6b98c106-2794-41f9-b06a-c64dfaed2f2a" width="300" />
-  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/ebed85ea-a068-4f1a-858e-349b670a9225" width="300" />
+  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/6b98c106-2794-41f9-b06a-c64dfaed2f2a" width="500" />
+  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/ebed85ea-a068-4f1a-858e-349b670a9225" width="500" />
 </p>
 <p align="center">
-  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/e44a7f77-f934-4703-8e0f-dab66adabf7d" width="300" />
+  <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/e44a7f77-f934-4703-8e0f-dab66adabf7d" width="500" />
 </p>
 
 
