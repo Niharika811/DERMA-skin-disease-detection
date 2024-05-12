@@ -14,7 +14,10 @@
 <p align="center">
   <img src="https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/e44a7f77-f934-4703-8e0f-dab66adabf7d" width="500" />
 </p>
-
+<p align="center">
+  <img src="![Screenshot 2024-05-12 192641](https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/4f3d3d79-9fff-4de4-8ac1-7acbea9815dc)
+" width="500" />
+</p>
 
 
 ## Features
