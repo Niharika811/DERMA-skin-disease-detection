@@ -3,7 +3,8 @@
  Derma is an innovative website that utilizes advanced machine learning algorithms to accurately detect skin diseases. It provides users with a reliable platform to analyze their skin conditions, receive accurate disease diagnoses, and access treatment recommendations.
 
 ## Preview
-![App Preview](link_to_your_app_preview_image)
+![App Preview](![Screenshot 2024-05-01 223729](https://github.com/Niharika811/DERMA-skin-disease-detection/assets/113079754/d3b3da84-22d9-42fe-94b0-6b4adbdb2cfd)
+)
 
 ## Features
 -Precision Disease Detection: Derma's machine learning model is trained on vast datasets of skin conditions, enabling it to provide precise and reliable disease detection results.
@@ -37,8 +38,3 @@
 - keras==2.10.0
 - tensorflow==2.10.0
 - numpy
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MedAI.git
