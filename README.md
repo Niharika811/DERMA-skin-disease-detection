@@ -6,10 +6,10 @@
 ![App Preview](link_to_your_app_preview_image)
 
 ## Features
--** Precision Disease Detection:** Derma's machine learning model is trained on vast datasets of skin conditions, enabling it to provide precise and reliable disease detection results.
--**Tailored Treatment Insights:**Upon diagnosis, Derma offers users personalized treatment insights, empowering them with knowledge to make informed decisions about their skin health.
--**Intuitive Interface:** With a user-friendly interface, Derma makes it easy for users to upload images, view results, and access comprehensive information about skin diseases and treatments.
--**Data Protection:** Derma prioritizes user privacy and data security, ensuring that all uploaded images and personal information are handled with the utmost care and compliance with privacy regulations.
+-Precision Disease Detection: Derma's machine learning model is trained on vast datasets of skin conditions, enabling it to provide precise and reliable disease detection results.
+-Tailored Treatment Insights: Upon diagnosis, Derma offers users personalized treatment insights, empowering them with knowledge to make informed decisions about their skin health.
+-Intuitive Interface:With a user-friendly interface, Derma makes it easy for users to upload images, view results, and access comprehensive information about skin diseases and treatments.
+-Data Protection:Derma prioritizes user privacy and data security, ensuring that all uploaded images and personal information are handled with the utmost care and compliance with privacy regulations.
 
 ## Used Technologies
 - Python 3.7 or above
