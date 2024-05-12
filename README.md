@@ -15,14 +15,16 @@
 -Data Protection:Derma prioritizes user privacy and data security, ensuring that all uploaded images and personal information are handled with the utmost care and compliance with privacy regulations.
 
 ## Used Technologies
-- Python 3.7 or above
-- Flask
-- React
-- 
-- 
-- keras==2.10.0
-- tensorflow==2.10.0
-- numpy
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,github,html,js,py,tensorflow,vscode&perline=14" />
+    <img/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="47" height="47" 
+      style="height:47px;width:auto;border-radius:8rem;overflow: hidden"/>
+      
+    
+  </a>
+</p>
 
 ## Contributors
 - Younes Ammari
