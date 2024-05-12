@@ -1,22 +1,22 @@
-# App Icon MedAI
+# Derma - AI-Powered Skin Disease Detection Website
 
-MedAI is a Flask application that utilizes AI algorithms to detect skin diseases and provide treatment susceptibility for patients. It offers an intelligent system that analyzes patient data and provides valuable insights for effective disease diagnosis and treatment planning.
+ Derma is an innovative website that utilizes advanced machine learning algorithms to accurately detect skin diseases. It provides users with a reliable platform to analyze their skin conditions, receive accurate disease diagnoses, and access treatment recommendations.
 
 ## Preview
 ![App Preview](link_to_your_app_preview_image)
 
 ## Features
-- **Skin Disease Detection:** MedAI leverages advanced AI algorithms to analyze patient symptoms and data to accurately detect various diseases.
-- **Treatment Susceptibility:** Based on the detected disease, MedAI provides valuable information on treatment susceptibility, assisting healthcare professionals in making informed decisions.
-- **User-Friendly Interface:** MedAI offers an intuitive and easy-to-use interface, making it accessible for both medical professionals and patients.
-- **Data Privacy and Security:** MedAI prioritizes data privacy and security, ensuring that patient information is handled with the utmost confidentiality and adheres to industry standards.
+-** Precision Disease Detection:** Derma's machine learning model is trained on vast datasets of skin conditions, enabling it to provide precise and reliable disease detection results.
+-**Tailored Treatment Insights:**Upon diagnosis, Derma offers users personalized treatment insights, empowering them with knowledge to make informed decisions about their skin health.
+-**Intuitive Interface:** With a user-friendly interface, Derma makes it easy for users to upload images, view results, and access comprehensive information about skin diseases and treatments.
+-**Data Protection:** Derma prioritizes user privacy and data security, ensuring that all uploaded images and personal information are handled with the utmost care and compliance with privacy regulations.
 
 ## Used Technologies
 - Python 3.7 or above
 - Flask
-- Pillow==5.4.1
-- gevent==1.4.0
-- gunicorn==19.9.0
+- React
+- 
+- 
 - keras==2.10.0
 - tensorflow==2.10.0
 - numpy
