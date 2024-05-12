@@ -18,31 +18,22 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,github,py,tensorflow,vscode&perline=14" />
-    <img/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="47" height="47" 
-      style="height:47px;width:auto;border-radius:8rem;overflow: hidden"/>
-      
-    
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" 
+         width="47" 
+         height="47" 
+         style="height:47px;width:auto;border-radius:8rem;overflow:hidden" 
+         alt="ChatGPT Logo" />
   </a>
 </p>
 
-## Contributors
-- Younes Ammari
-- Rawan Reda
-- Alma Nizar
-- Samar Hawsawi
-- Linda Almakramy
-- Thourya Musa
 
-## Getting Started
-### Prerequisites
-Make sure you have the following dependencies installed before running the project:
+### Dependencies
 
 - Python 3.7 or above
 - Flask
-- Pillow==5.4.1
-- gevent==1.4.0
-- gunicorn==19.9.0
+- React
 - keras==2.10.0
 - tensorflow==2.10.0
 - numpy
